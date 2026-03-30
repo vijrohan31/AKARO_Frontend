@@ -2,7 +2,7 @@
 set -e  # Exit immediately on error
 
 PORT=5011
-PROJECT_DIR="/root/Akaro-Frontend"
+PROJECT_DIR="/root/AKARO_Frontend"
 APP_NAME="Akaro-Frontend"
 
 echo "🚀 Starting deployment process for $APP_NAME..." 
